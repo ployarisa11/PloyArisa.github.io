@@ -1,0 +1,25 @@
+.a{
+    background: url(4.jpg);
+    width: 600px;
+    height: 800px;
+}
+.b{
+    font-size: xx-large;
+    padding-top: 1em;
+    color: red;
+    text-align: center;
+    text-decoration: overline;
+    text-shadow: 1px 1px 2px orange;
+    font-style: italic;
+}
+.c{
+    text-indent: 2em;
+    padding-left: 6em;
+    padding-right: 6em;
+}
+.d{
+    padding-left: 6.5em;
+}
+.e{
+    padding-left: 6.5em;
+}
